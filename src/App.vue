@@ -29,4 +29,7 @@ a{text-decoration: none;color: #4A4A4A;}
 .flex_center{display: flex; justify-content: center; align-items: center;}
 .vertical_v{display: flex; align-items: center;}
 .flex_c{display: flex;flex-direction: column; align-items: center;}
+
+/*弹窗样式*/
+.van-toast--text{min-width: 4.4rem !important;font-size: .28rem !important;padding: .24rem !important;}
 </style>
